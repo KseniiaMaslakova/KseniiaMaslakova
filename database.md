@@ -1,12 +1,35 @@
-# Health and Fitness Tracking App
+# Create Health and Fitness Tracking App
 
-In this assignment, you will design a comprehensive database schema and SQL queries for a Health and Fitness Tracking App. The application aims to help users track their health metrics, log workouts, monitor nutrition, record sleep patterns, and offer personalized fitness recommendations. Your task is to propose a detailed SQL data schema and create SQL code to perform various data queries for the application.
+Make a SQL developer who will design a comprehensive database schema and SQL queries for a Health and Fitness Tracking App. This SQL developer should have deep knowledge about Healthy Lifestyle for international students who study in London.
 
-## Assignment Instructions:
+Overview: The application aims to help Minerva University's students track their health metrics, log workouts, monitor nutrition, record sleep patterns, and offer personalized fitness recommendations. Create a detailed SQL data schema and create SQL code to perform most appropriate and useful data queries for the application.
+
+### Concepts to follow while completing the following steps:
+
+breakitdown: Organize problems into tractable components and design solutions. Make you sure you do the following:
+- make the subproblems tractable, clear, and well defined
+- list all the subproblems relevant to the problem
+- ensure the subproblems are problems rather than constraints
+- explain the breakdown process in simple terms (there isn’t 'one way' to break down a problem, so clearly articulating why you decided to break down the problem into the subproblems you did)
+- explaine how the subproblems are connected and necessary to solve the big problem
+- Out of the list of subproblems, explain how did you select the relevant subproblems to tackle
+- Produce diagram and included a caption for a diagram used to break down a problem
+
+cs162_communication: Ensure that all code, documentation and commit messages are clearly written with explanations where appropriate. Make sure, you:
+- Provide a clear, detailed, well-justified and accurate explanation to all produced documentation.
+
+cs162_sql: Write fast queries for well-designed SQL tables. Make sure you:
+- Accurately define, apply, and implements SQL commands appropriate to the given context.
+- Provide a clear, detailed, well-justified and accurate explanation supporting the choice, provide extensive evidence that other competing alternatives would not solve the problem as effectively.
+
+cs162_testing: Write comprehensive and meaningful testing code for the system. Make sure you:
+- Accurately define, apply, and implement unit tests appropriate to the given context.
+- Provide a clear, detailed, well-justified and accurate explanation supporting the choice
+- Provide extensive evidence that other competing alternatives would not solve the problem as effectively.
 
 ### Step 1: Health and Fitness Tracking App Overview
 
-Provide a detailed description of the Health and Fitness Tracking App. Describe its primary objectives, target audience, and the specific health and fitness metrics it will track, including sleep data. Explain how the app will benefit users in achieving their fitness goals and maintaining a healthy lifestyle.
+Provide a detailed description of the Health and Fitness Tracking App. Describe its primary objectives, target audience (i.e., details on Minerva University's students), and the specific health and fitness metrics it will track, including sleep data. Explain how the app will benefit users in achieving their fitness goals and maintaining a healthy lifestyle.
 
 ### Step 2: Identify Data Requirements
 
@@ -18,27 +41,23 @@ Based on the identified data requirements, design a detailed SQL data schema tha
 
 ### Step 4: SQL Query Scenarios
 
-Create SQL code to perform various data queries that the Health and Fitness Tracking App may require. Ensure your queries cover a wide range of scenarios to extract valuable insights from the database. Consider scenarios related to workout tracking, nutrition analysis, sleep pattern assessment, user progress monitoring, and personalized recommendations.
+Create SQL code to perform most appropriate and useful data queries that the Health and Fitness Tracking App. Ensure your queries cover a wide range of scenarios to extract valuable insights from the database. Consider scenarios related to workout tracking, nutrition analysis, sleep pattern assessment, user progress monitoring, and personalized recommendations.
 
 ### Step 5: Data Population
 
 Generate sample data and populate the database with relevant records to test your SQL queries. Ensure that the data includes various user profiles, workout sessions, nutrition logs, sleep patterns, and health metrics. Use realistic values to simulate real-world usage scenarios of the application.
 
-### Step 6: Query Optimization (Optional - Advanced)
+### Step 6: Query Optimization
 
-As an optional challenge, explore ways to optimize the SQL queries you have written. Discuss any performance issues you encountered and propose potential solutions to enhance query efficiency.
+Optimize the SQL queries you have written. Discuss any performance issues you encountered and propose potential solutions to enhance query efficiency.
 
-## Submission
+## What is the final deliverable expected?
 
-For this assignment you may write your SQL code directly in the SQLite dialect,
-or else you may use SQLAlchemy and write python code. In either case, your
-primary submission must be a PDF listing of a `README.md` file followed by the
-rest of your code, but you must also submit a zip file containing all the code.
-When this code is run then it must clearly print to screen the results of any
-SQL queries that are run. As part of your assignment, your must highlight places
-where you have appropriately used data normalization, indices, and transactions.
-Please draw attention to any areas of your assignment where you have exceeded
-the requirements of this assignment.
+- SQL code in the SQLite dialect
+- Detailed and clear README.md to summarize your work
+- all the code (When this code is run then it must clearly print to screen the results of any SQL queries that are run)
+- highlight places that are the excpetional examples of appropriately used data normalization, indices, and transactions.
+- draw attention to all areas where the requirements are exceeded
 
 ### Execution (Python)
 
@@ -78,13 +97,13 @@ files your have submitted. For example:
 .read query_data.sql
 ```
 
+### Reflection part for readme
+
+Explain how your work is th example of the application of #breakitdown, #cs162_communication, #cs162_sql and #cs162_testing.
+
 ### Hints and best practices:
 
 - Make sure you set up all your foreign key constraints and indexes correctly.
-- Test your code! Unit tests are the best.
-- Use the [Python Faker library](https://faker.readthedocs.io/en/master/) to generate as much random data as you need for your assignment.
-- Write a clear README to summarize your work for this assignment.
+- Test your code with unit tests.
+- Use the [Python Faker library](https://faker.readthedocs.io/en/master/) to generate as much random data as you need.
 - Explain the intent of your code, database design, and database queries in code comments.
-- Please make sure that the virtual environment `venv` is **not** included in your Zip file. Virtual environments are not portable, and if you installed it
-  on your laptop then it is unlikely to work anywhere else.
-- Also, make sure the Python cache `__pycache__` is **not** included in the Zip file. This is less important than `venv` but it is still best practice to exclude it when distributing your source code. To understand why, [read this StackOverflow explanation](https://stackoverflow.com/a/16869074).
