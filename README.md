@@ -30,15 +30,18 @@ I embarked on an enriching academic journey at Minerva, taking the following cou
 5. **CS114: Probability, Statistics, and the Structure of Randomness**
 6. **CS164: Optimization Methods**
 7. **CS166: Modeling and Analysis of Complex Systems**
+8. **CS162: Software Development: Building Powerful Applications**
+9. **CS130: Statistical Modeling: Prediction and Causal Inference**
+10. **IL181: AI Ethics and Social Justice**
 
-> During these courses, I undertook a series of challenging assignments, honing my skills in logical thinking, statistical inference, and algorithms and simulation.
+> During these courses, I undertook 250 lectures, 65+ assignments (from case studies to oral interviews), honing my skills in logical thinking, statistical inference, and algorithms and simulation.
 
 ## 🚀 **Career Path**
 
 Venturing into the professional world, I gravitated towards **Product Management**, gaining experience at renowned places such as:
 
-- **Gensler**
 - **FreedomCode**
+- - **Gensler**
 - **Astria Learning**
 
 I also explored the realms of research, journalism, and course development, contributing to:
@@ -49,6 +52,6 @@ I also explored the realms of research, journalism, and course development, cont
 
 ## **Looking Ahead**
 
-As I forge ahead, I am eager to leverage my rich educational background and diverse professional experience to make significant contributions to the tech landscape, especially in product management. I am open to collaborations and discussions, aiming to create something remarkable and innovative.
+As I forge ahead, I am eager to leverage my rich educational background and diverse professional experience to make significant contributions to the tech landscape. I am open to collaborations and discussions, aiming to create something remarkable and innovative.
 
 *Feel free to explore my projects and reach out for potential collaborations. Let's create something amazing together!*
