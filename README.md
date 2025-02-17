@@ -1,4 +1,6 @@
-# Welcome to My GitHub Page! Go to my pinned repositories to explore my projects in R, SQL & Python:)
+# Go to my pinned repositories to explore my projects in R, SQL & Python:)
+
+Welcome to My GitHub Page! 
 
 ## 🎓 **Minerva University Journey**
 
