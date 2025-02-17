@@ -1,23 +1,4 @@
-# Welcome to My GitHub Page! 👋
-
-Hello there! I am a passionate **computer science enthusiast** and a budding **product manager** with a rich background in various facets of computer science and technology.
-
-## 🌟 **Early Achievements**
-
-### **Dnipro Lyceum of Information Technologies (2017-2019)**
-My journey began here, diving deep into:
-- **C# and Visual Studio**: Where I grasped the concepts of OOP.
-- **Web and Graphic Design**: Mastering tools like SketchUp and GIMP.
-- **Projects**:
-  - [First Website](https://kseniamaslakova.github.io/)
-  - [Astronomy Class Web App](https://drive.google.com/drive/folders/1yr_4HooHum3bWH7GK5ok7M68SKLUZXXH)
-- **Achievement**: Secured the **2nd place** in a national web design competition.
-
-### **[Decided.org.ua](https://decided.org.ua/)**
-Post-lyceum, I co-created this platform, taking charge of:
-- Building the website.
-- Developing a telegram bot.
-- Initiating a mobile app project (in progress).
+# Welcome to My GitHub Page! Go to my pinned repositories to explore my projects in R, SQL & Python:)
 
 ## 🎓 **Minerva University Journey**
 
@@ -49,6 +30,23 @@ I also explored the realms of research, journalism, and course development, cont
 - **ALLIANCE TECH**: Conducted research on AI and Digital Twins industries.
 - **East-West Digital News**: Served as a journalist covering Digital and IT industries.
 - **Inc. Magazine**: Developed a course on Data Analytics, merging my knowledge of computer science with educational expertise.
+
+## 🌟 **Early Achievements**
+
+### **Dnipro Lyceum of Information Technologies (2017-2019)**
+My journey began here, diving deep into:
+- **C# and Visual Studio**: Where I grasped the concepts of OOP.
+- **Web and Graphic Design**: Mastering tools like SketchUp and GIMP.
+- **Projects**:
+  - [First Website](https://kseniamaslakova.github.io/)
+  - [Astronomy Class Web App](https://drive.google.com/drive/folders/1yr_4HooHum3bWH7GK5ok7M68SKLUZXXH)
+- **Achievement**: Secured the **2nd place** in a national web design competition.
+
+### **[Decided.org.ua](https://decided.org.ua/)**
+Post-lyceum, I co-created this platform, taking charge of:
+- Building the website.
+- Developing a telegram bot.
+- Initiating a mobile app project (in progress).
 
 ## **Looking Ahead**
 
