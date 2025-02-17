@@ -4,7 +4,7 @@ Welcome to My GitHub Page!
 
 ## 🎓 **Minerva University Journey**
 
-I embarked on an enriching academic journey at Minerva, taking the following courses in chronological order:
+I embarked on an enriching academic journey at Minerva, taking the following CS courses in chronological order (Business courses are not listed here):
 
 1. **CS50-51: Formal Analyses**
 2. **CS110: Problem Solving with Data Structures and Algorithms**
