@@ -41,7 +41,7 @@ I embarked on an enriching academic journey at Minerva, taking the following cou
 Venturing into the professional world, I gravitated towards **Product Management**, gaining experience at renowned places such as:
 
 - **FreedomCode**
-- - **Gensler**
+- **Gensler**
 - **Astria Learning**
 
 I also explored the realms of research, journalism, and course development, contributing to:
