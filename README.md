@@ -43,7 +43,7 @@ The architecture of the freedomcode.org website is based on the Rest API. This m
 
 I also explored the realms of research, journalism, and course development, contributing to:
 
-- **Curriculum Developer for AI Ethics & Social Justice 4 Credits Course at Minerva University**: Co-created a syllabus for undergraduate seniors, integrated feedback from Microsoft’s Responsible AI Director and NVIDIA’s CTO.
+- **Curriculum Developer for AI Ethics & Social Justice 4 Credits Course at Minerva University**: Co-created a syllabus for undergraduate seniors, integrated feedback from Microsoft’s Responsible AI Director and NVIDIA’s CTO. Please, access [here]([(https://spurious-plot-44a.notion.site/AI-Ethics-Social-Justice-Course-1a1a7ec29b388057953dce5a5a174d0e)]).
 - **Co-Author of Research on AI-Based Skincare at European Alliance for Technology Development**: Analyzed 150+ AI-driven skincare projects; spotted validated tech vs. hype, revealing telemedicine gaps for rural areas.
 - **East-West Digital News**: Served as a journalist covering innovations in the energy sector.
 - **Inc. Magazine**: Developed a course on Data Analytics, merging my knowledge of computer science with educational expertise.
