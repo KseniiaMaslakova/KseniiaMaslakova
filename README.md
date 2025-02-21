@@ -4,7 +4,7 @@ Welcome to My GitHub Page!
 
 ## 🎓 **Minerva University Journey**
 
-I embarked on an enriching academic journey at Minerva, taking the following CS courses in chronological order (Business courses are not listed here):
+From 2020 to 2024, I completed the following Computer Science courses in chronological order (excluding Business courses), achieving a GPA of 3.68/4.00:
 
 1. **CS50-51: Formal Analyses**
 2. **CS110: Problem Solving with Data Structures and Algorithms**
@@ -17,20 +17,35 @@ I embarked on an enriching academic journey at Minerva, taking the following CS 
 9. **CS130: Statistical Modeling: Prediction and Causal Inference**
 10. **IL181: AI Ethics and Social Justice**
 
-> During these courses, I undertook 250 lectures, 65+ assignments (from case studies to oral interviews), honing my skills in logical thinking, statistical inference, and algorithms and simulation.
+During these courses, I undertook 250 lectures, and wrote 65+ assignments (from case studies to oral interviews), honing my skills in logical thinking, statistical inference, and algorithms and simulation.
+
+In 2025, I enhanced my knowledge through the following two courses:
+
+1. **IBM Generative AI Engineering Professional Certificate by IBM using Coursera provided by Tent Mentorship Program**
+2. **Machine Learning Specialization Certificate by Stanford and DeepLearning.ai**
+
+Over the past three years, I have been consistently mentored by technical leaders from Microsoft, Google, Etsy, TikTok, and Amazon. They have helped me bridge my theoretical knowledge with real-life cases.
 
 ## 🚀 **Career Path**
 
 Venturing into the professional world, I gravitated towards **Product Management**, gaining experience at renowned places such as:
 
 - **FreedomCode**
+
+The freedomcode.org website uses React, MongoDB, and Next.js to create a dynamic and responsive interface that works on any device. React is a JavaScript library that allows you to create interactive components such as buttons, forms, menus, etc. MongoDB is a database that stores information about users, messages, projects, etc. Next.js is a framework that helps developers easily build websites with React.
+
+The freedomcode.org site also uses additional front-end features such as Emotion, Three.js, and MUI. Emotion is a library that allows you to style React components using CSS. Three.js is a library that allows you to create 3D graphics on web pages. MUI is a library that provides ready-made components for creating a beautiful and user-friendly design.
+
+The architecture of the freedomcode.org website is based on the Rest API. This means that the website communicates with the server using requests and responses in JSON format. JSON is a way of representing data in the form of key-value pairs. This method allows you to easily exchange data between different programming languages and platforms.
+
 - **Gensler**
 - **Astria Learning**
 
 I also explored the realms of research, journalism, and course development, contributing to:
 
-- **ALLIANCE TECH**: Conducted research on AI and Digital Twins industries.
-- **East-West Digital News**: Served as a journalist covering Digital and IT industries.
+- **Curriculum Developer for AI Ethics & Social Justice 4 Credits Course at Minerva University**: Co-created a syllabus for undergraduate seniors, integrated feedback from Microsoft’s Responsible AI Director and NVIDIA’s CTO.
+- **Co-Author of Research on AI-Based Skincare at European Alliance for Technology Development**: Analyzed 150+ AI-driven skincare projects; spotted validated tech vs. hype, revealing telemedicine gaps for rural areas.
+- **East-West Digital News**: Served as a journalist covering innovations in the energy sector.
 - **Inc. Magazine**: Developed a course on Data Analytics, merging my knowledge of computer science with educational expertise.
 
 ## 🌟 **Early Achievements**
